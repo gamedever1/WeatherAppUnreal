@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "WeatherApp",
+			"Path": "R:\\UnrealProjects\\WeatherApp\\Source\\WeatherApp.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "WeatherAppEditor",
+			"Path": "R:\\UnrealProjects\\WeatherApp\\Source\\WeatherAppEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

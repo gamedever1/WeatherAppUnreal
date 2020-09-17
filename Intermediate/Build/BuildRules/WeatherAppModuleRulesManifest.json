@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"R:\\UnrealProjects\\WeatherApp\\Source\\WeatherApp\\WeatherApp.Build.cs",
+		"R:\\UnrealProjects\\WeatherApp\\Plugins\\CISQLite3\\Source\\CISQLite3\\CISQLite3.Build.cs",
+		"R:\\UnrealProjects\\WeatherApp\\Source\\WeatherApp.Target.cs",
+		"R:\\UnrealProjects\\WeatherApp\\Source\\WeatherAppEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.3"
+}

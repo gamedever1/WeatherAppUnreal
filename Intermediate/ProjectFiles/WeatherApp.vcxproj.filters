@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\WeatherApp.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{4437416C-44EB-4A97-9BE2-2AF2FF88EAD5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\WeatherApp.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\WeatherAppEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{1A5E8A12-2C34-4122-9CA1-41145FE593ED}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{1A66A615-CAA9-4359-AC12-3FDAAB0324C5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\CISQLite3">
+      <UniqueIdentifier>{BAD5B839-12E6-40DD-82AE-361B9C962BB8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\CISQLite3\Source">
+      <UniqueIdentifier>{38E56A5C-D5FF-4793-9020-F4131D199A38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\CISQLite3\Source\CISQLite3">
+      <UniqueIdentifier>{D75ED7FA-0D42-4967-84E6-5F8B199C0AB1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\CISQLite3\Source\CISQLite3\CISQLite3.Build.cs">
+      <Filter>Plugins\CISQLite3\Source\CISQLite3</Filter>
+    </None>
+    <Filter Include="Plugins\CISQLite3\Source\CISQLite3\Private">
+      <UniqueIdentifier>{2BD200E0-F27B-4556-84F9-C1206A0DF041}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\CISQLite3\Source\CISQLite3\Private\CISQLite3.cpp">
+      <Filter>Plugins\CISQLite3\Source\CISQLite3\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\CISQLite3\Source\CISQLite3\Private\CISQLite3PrivatePCH.h">
+      <Filter>Plugins\CISQLite3\Source\CISQLite3\Private</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\CISQLite3\Source\CISQLite3\Private\sqlite3.c">
+      <Filter>Plugins\CISQLite3\Source\CISQLite3\Private</Filter>
+    </None>
+    <ClCompile Include="..\..\Plugins\CISQLite3\Source\CISQLite3\Private\SQLiteBlueprintFunctionLibrary.cpp">
+      <Filter>Plugins\CISQLite3\Source\CISQLite3\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\CISQLite3\Source\CISQLite3\Private\SQLiteDatabase.cpp">
+      <Filter>Plugins\CISQLite3\Source\CISQLite3\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\CISQLite3\Source\CISQLite3\Public">
+      <UniqueIdentifier>{9BFA8D2E-F04C-4058-AD57-18D51C39BCDC}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\CISQLite3\Source\CISQLite3\Public\CISQLite3.h">
+      <Filter>Plugins\CISQLite3\Source\CISQLite3\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\CISQLite3\Source\CISQLite3\Public\sqlite3.h">
+      <Filter>Plugins\CISQLite3\Source\CISQLite3\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\CISQLite3\Source\CISQLite3\Public\sqlite3ext.h">
+      <Filter>Plugins\CISQLite3\Source\CISQLite3\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\CISQLite3\Source\CISQLite3\Public\SQLiteBlueprintFunctionLibrary.h">
+      <Filter>Plugins\CISQLite3\Source\CISQLite3\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\CISQLite3\Source\CISQLite3\Public\SQLiteBlueprintNodes.h">
+      <Filter>Plugins\CISQLite3\Source\CISQLite3\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\CISQLite3\Source\CISQLite3\Public\SQLiteDatabase.h">
+      <Filter>Plugins\CISQLite3\Source\CISQLite3\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\CISQLite3\Source\CISQLite3\Public\SQLiteDatabaseStructs.h">
+      <Filter>Plugins\CISQLite3\Source\CISQLite3\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\CISQLite3\CISQLite3.uplugin">
+      <Filter>Plugins\CISQLite3</Filter>
+    </None>
+    <Filter Include="Plugins\CISQLite3\Resources">
+      <UniqueIdentifier>{AE468EB5-8ACB-42E9-A318-387A9BE37248}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\CISQLite3\Resources\Icon128.png">
+      <Filter>Plugins\CISQLite3\Resources</Filter>
+    </None>
+    <Filter Include="Source\WeatherApp">
+      <UniqueIdentifier>{29C7C527-BBFD-4C06-B87C-59210A42C7AE}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\WeatherApp\ActorWeather.cpp">
+      <Filter>Source\WeatherApp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\WeatherApp\ActorWeather.h">
+      <Filter>Source\WeatherApp</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\WeatherApp\json.hpp">
+      <Filter>Source\WeatherApp</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\WeatherApp\MyHttpClass.cpp">
+      <Filter>Source\WeatherApp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\WeatherApp\MyHttpClass.h">
+      <Filter>Source\WeatherApp</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\WeatherApp\WeatherApp.Build.cs">
+      <Filter>Source\WeatherApp</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\WeatherApp\WeatherApp.cpp">
+      <Filter>Source\WeatherApp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\WeatherApp\WeatherApp.h">
+      <Filter>Source\WeatherApp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\WeatherApp\WeatherAppGameModeBase.cpp">
+      <Filter>Source\WeatherApp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\WeatherApp\WeatherAppGameModeBase.h">
+      <Filter>Source\WeatherApp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\WeatherApp\WeatherWidget.cpp">
+      <Filter>Source\WeatherApp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\WeatherApp\WeatherWidget.h">
+      <Filter>Source\WeatherApp</Filter>
+    </ClInclude>
+    <Filter Include="Source\WeatherApp\sqlite">
+      <UniqueIdentifier>{C7FACFC2-E574-406A-817A-7584F17287C8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\WeatherApp\sqlite\bin">
+      <UniqueIdentifier>{EE664979-00F7-48D9-84AF-214B38FE94CE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\WeatherApp\sqlite\bin\sqlite3.dll">
+      <Filter>Source\WeatherApp\sqlite\bin</Filter>
+    </None>
+    <None Include="..\..\Source\WeatherApp\sqlite\bin\sqlite3.lib">
+      <Filter>Source\WeatherApp\sqlite\bin</Filter>
+    </None>
+    <None Include="cpp.hint" />
+  </ItemGroup>
+</Project>
