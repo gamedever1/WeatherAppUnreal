@@ -4,7 +4,7 @@
 **Unreal Engine 4.23.3**  
 **Visual Studio 2017.**   
  
- Готовую packaged игру-приложение можно скачать здесь - https://drive.google.com/file/d/1gLuCWudvHEW3K1VvsI05qWC2veX5Fxwh/view?usp=sharing
+ Готовую packaged игру-приложение можно скачать здесь - https://drive.google.com/file/d/1iKF4rE5NOg6-59tsFPPozg_0rI-lYokp/view?usp=sharing
  
 Программа выводит список городов с указанием температуры.
 Добавленные в список города кешируются в базе данных в файле Content/DataBase/database.sqlite3  
