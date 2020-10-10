@@ -13,7 +13,8 @@
 В проекте используются как **C++ классы**, так и **Blueprints**.
 
 ## **Главное окно программы:**
-![2020-10-10_045537255](https://user-images.githubusercontent.com/55281328/95640618-02f78180-0ab7-11eb-8b5c-51b10c75ef10.jpg)
+![2020-09-27_053006252](https://user-images.githubusercontent.com/55281328/95641116-ddb84280-0ab9-11eb-955a-56bee8035241.jpg)
+
 
 ## **Блупринты:**
 ![2020-10-10_045647241](https://user-images.githubusercontent.com/55281328/95640805-00495c00-0ab8-11eb-9a70-4f029be633bb.png)
