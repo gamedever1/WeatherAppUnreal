@@ -1,5 +1,6 @@
 # WeatherAppUnreal
- Приложение на UnrealEngine4 для получения данных о погоде, через REST-API сервиса openweathermap.org/API 
+ Приложение на UnrealEngine4 для получения данных о погоде, через REST-API сервиса http://openweathermap.org/API  
+ Для запуска и компиляции использовалось:  
  Unreal Engine 4.23.3  
  Visual Studio 2017.   
  
